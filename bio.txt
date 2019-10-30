@@ -1,0 +1,3 @@
+I am a 20 year old guy. I developed interest in web developement late in the year 2018 and managed to teach myself the 
+basics of web developement using various sources. I managed to cover the basics of html, css. However I did'nt perfect
+ myself to be eloquent in these and jumped to vanilla JavaScript in pursue of leaning it's use in web developement.
